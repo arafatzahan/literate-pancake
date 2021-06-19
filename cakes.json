@@ -1,0 +1,16 @@
+{
+  "name": "The Cake is a Lie",
+  "version": 1,
+  "cakes": {
+    "ckq45fmu6000101l65rx269sw": {
+      "status": true,
+      "reason": null,
+      "since": null
+    },
+    "ckq45hxo2000301l681oa0bz3": {
+      "status": false,
+      "reason": "For not clearing due payment",
+      "since": "1 June, 2021"
+    }
+  }
+}
